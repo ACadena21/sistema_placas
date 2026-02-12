@@ -1,0 +1,2 @@
+flask
+psycop2-binary
